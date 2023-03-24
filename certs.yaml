@@ -1,1 +1,5 @@
 ---
+dcmultiversewikiscom:
+  url: 'dc-multiverse.dcwikis.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
