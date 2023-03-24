@@ -1,4 +1,9 @@
 ---
+wwwredirect:
+  url: 'www.wikiforge.net'
+  redirect: 'wikiforge.net'
+  sslname: 'wildcard.wikiforge.net'
+  ca: 'LetsEncrypt'
 dcmultiversewiki:
   url: 'dcmultiverse.wikiforge.net'
   redirect: 'dc-multiverse.dcwikis.com'
