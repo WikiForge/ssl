@@ -1,5 +1,6 @@
 ---
 dcmultiversewikiscom:
   url: 'dc-multiverse.dcwikis.com'
+  sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: false
