@@ -4,3 +4,8 @@ wwwredirect:
   redirect: 'wikiforge.net'
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
+wwwmwcosmoscom:
+  url: 'www.mwcosmos.com'
+  redirect: 'mwcosmos.com'
+  sslname: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
