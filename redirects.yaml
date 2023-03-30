@@ -4,6 +4,30 @@ wwwredirect:
   redirect: 'wikiforge.net'
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
+dcmultiversedcwikiscom:
+  url: 'dc-multiverse.dcwikis.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dc-multiverse.dcwikis.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+wwwdcmultiversewikicom:
+  url: 'www.dcmultiversewiki.com'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
+dcwikiredirect:
+  url: 'dc.wikiforge.net'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wildcard.wikiforge.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
+dcmultiversewiki:
+  url: 'dcmultiverse.wikiforge.net'
+  redirect: 'dcmultiversewiki.com'
+  sslname: 'wildcard.wikiforge.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
 wwwmwcosmoscom:
   url: 'www.mwcosmos.com'
   redirect: 'mwcosmos.com'
