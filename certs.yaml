@@ -1,7 +1,6 @@
 ---
 dcmultiversewikicom:
   url: 'dcmultiversewiki.com'
-  sslname: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
 mwcosmoscom:
