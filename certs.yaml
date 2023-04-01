@@ -7,7 +7,3 @@ mwcosmoscom:
   url: 'mwcosmos.com'
   ca: 'LetsEncrypt'
   disable_event: false
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
