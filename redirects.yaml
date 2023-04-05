@@ -33,3 +33,14 @@ wwwmwcosmoscom:
   redirect: 'mwcosmos.com'
   sslname: 'mwcosmos.com'
   ca: 'LetsEncrypt'
+rippaversewiki:
+  url: 'rippaverse.wikiforge.net'
+  redirect: 'rippaversewiki.com'
+  sslname: 'wildcard.wikiforge.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
+wwwrippaversewikicom:
+  url: 'www.rippaversewiki.com'
+  redirect: 'rippaversewiki.com'
+  sslname: 'rippaversewiki.com'
+  ca: 'LetsEncrypt'
