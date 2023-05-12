@@ -1,0 +1,37 @@
+---
+name: Continuous integration
+
+# yamllint disable-line rule:truthy
+on:
+  create:
+  push:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  test:
+    name: 'Check YAML'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@master
+      - name: 'Yamllint'
+        uses: karancode/yamllint-github-action@master
+        with:
+          yamllint_config_filepath: '.yamllint.yml'
+
+  notify-irc:
+    needs: test
+    runs-on: ubuntu-latest
+    if: ${{ always() && github.repository_owner == 'WikiForge' && ( github.ref == 'refs/heads/master' || github.event_name == 'pull_request' ) }}
+    steps:
+      - name: failed
+        uses: technote-space/workflow-conclusion-action@v3
+      - uses: rectalogic/notify-irc@v2
+        if: env.WORKFLOW_CONCLUSION == 'failure'
+        with:
+          channel: "#wikiforge-sre"
+          server: "irc.libera.chat"
+          nickname: wikiforge-github
+          message: ${{ github.repository }} - ${{ github.actor }} the build has errored.
+          sasl_password: ${{ secrets.IRC_WIKIFORGEBOTS }}
