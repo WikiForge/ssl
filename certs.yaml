@@ -21,5 +21,6 @@ rippaversewikicom:
   disable_event: false
 wwwpolandballwikicom:
   url: 'www.polandballwiki.com'
+  sslname: 'polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
