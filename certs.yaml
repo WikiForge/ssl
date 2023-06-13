@@ -19,7 +19,7 @@ rippaversewikicom:
   url: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-polandballwikicom:
-  url: 'polandballwiki.com'
+wwwpolandballwikicom:
+  url: 'www.polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
