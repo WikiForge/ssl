@@ -54,3 +54,9 @@ wwwrippaversewikicom:
   redirect: 'rippaversewiki.com'
   sslname: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
+polandballwikicom:
+  url: 'polandballwiki.com'
+  redirect: 'www.polandballwiki.com'
+  sslname: 'www.polandballwiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
