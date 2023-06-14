@@ -24,3 +24,7 @@ wwwpolandballwikicom:
   sslname: 'polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+beaconspaceunrestrictedlorefarecom:
+  url: 'beaconspace.unrestrictedlorefare.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
