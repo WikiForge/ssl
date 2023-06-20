@@ -40,3 +40,7 @@ alphasagan4org:
   url: 'alpha.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
+betasagan4org:
+  url: 'beta.sagan4.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
