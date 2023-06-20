@@ -28,3 +28,7 @@ beaconspaceunrestrictedlorefarecom:
   url: 'beaconspace.unrestrictedlorefare.com'
   ca: 'LetsEncrypt'
   disable_event: false
+hkrailwiki:
+  url: 'hkrail.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
