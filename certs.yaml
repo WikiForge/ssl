@@ -32,3 +32,7 @@ hkrailwiki:
   url: 'hkrail.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+metasagan4org:
+  url: 'meta.sagan4.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
