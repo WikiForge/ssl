@@ -48,3 +48,7 @@ masonsagan4org:
   url: 'mason.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
+periloustimescom:
+  url: 'perilous-times.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
