@@ -52,3 +52,7 @@ periloustimescom:
   url: 'perilous-times.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikipixandbitgay:
+  url: 'wiki.pixandbit.gay'
+  ca: 'LetsEncrypt'
+  disable_event: false
