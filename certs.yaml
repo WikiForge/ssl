@@ -1,8 +1,7 @@
 ---
 # WikiTide
 wikitide:
-  url: 'wikitide.com'
-  additional_domain: '*.wikitide.com'
+  url: '*.wikitide.com'
   sslname: 'wikitide.com'
   ca: 'LetsEncrypt'
   disable_event: true
