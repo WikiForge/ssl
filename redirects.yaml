@@ -9,12 +9,6 @@ wwwwikitideredirect:
   redirect: 'wikitide.com'
   sslname: 'wikitide.com'
   ca: 'LetsEncrypt'
-dcmultiversedcwikiscom:
-  url: 'dc-multiverse.dcwikis.com'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'dc-multiverse.dcwikis.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
   redirect: 'dcmultiversewiki.com'
