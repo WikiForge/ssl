@@ -72,3 +72,7 @@ farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wwwavidwiki:
+  url: 'www.avid.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
