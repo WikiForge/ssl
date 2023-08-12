@@ -76,3 +76,7 @@ wwwavidwiki:
   url: 'www.avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wikicolleimadcatcom:
+  url: 'wiki.colleimadcat.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
