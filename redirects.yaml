@@ -85,3 +85,9 @@ avidwikiforge:
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
+greatamericawiki:
+  url: 'greatamerica.wiki'
+  redirect: 'www.greatamerica.wiki'
+  sslname: 'www.greatamerica.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
