@@ -82,5 +82,6 @@ wikicolleimadcatcom:
   disable_event: false
 wwwgreatamericawiki:
   url: 'www.greatamerica.wiki'
+  sslname: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
