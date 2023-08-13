@@ -88,6 +88,6 @@ avidwikiforge:
 greatamericawiki:
   url: 'greatamerica.wiki'
   redirect: 'www.greatamerica.wiki'
-  sslname: 'www.greatamerica.wiki'
+  sslname: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
