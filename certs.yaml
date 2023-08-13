@@ -80,7 +80,7 @@ wikicolleimadcatcom:
   url: 'wiki.colleimadcat.com'
   ca: 'LetsEncrypt'
   disable_event: false
-greatamericawiki:
-  url: 'greatamerica.wiki'
+wwwgreatamericawiki:
+  url: 'www.greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
