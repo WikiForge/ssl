@@ -85,3 +85,7 @@ wwwgreatamericawiki:
   sslname: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+rosettacodeorg:
+  url: 'rosettacode.org'
+  ca: 'LetsEncrypt'
+  disable_event: false
