@@ -89,3 +89,7 @@ rosettacodeorg:
   url: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: false
+distrowikinet:
+  url: 'distrowiki.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
