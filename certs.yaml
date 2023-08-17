@@ -93,3 +93,7 @@ distrowikinet:
   url: 'distrowiki.net'
   ca: 'LetsEncrypt'
   disable_event: false
+newcascadianet:
+  url: 'newcascadia.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
