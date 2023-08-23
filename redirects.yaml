@@ -91,3 +91,9 @@ greatamericawiki:
   sslname: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+rosettacodeorg:
+  url: 'rosettacode.org'
+  redirect: 'www.rosettacode.org'
+  sslname: 'rosettacode.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
