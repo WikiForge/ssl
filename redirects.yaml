@@ -9,6 +9,11 @@ wwwwikitideredirect:
   redirect: 'wikitide.com'
   sslname: 'wikitide.com'
   ca: 'LetsEncrypt'
+metawikiredirect:
+  url: 'meta.wikiforge.net'
+  redirect: 'hub.wikiforge.net'
+  sslname: 'wildcard.wikiforge.net'
+  ca: 'LetsEncrypt'
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
   redirect: 'dcmultiversewiki.com'
