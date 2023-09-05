@@ -6,6 +6,18 @@ wikitide:
   sslname: 'wikitide.com'
   ca: 'LetsEncrypt'
   disable_event: true
+wikitideorg:
+  url: 'wikitide.org'
+  additional_domain: '*.wikitide.org'
+  sslname: 'wikitide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
+wikitidenet:
+  url: 'wikitide.net'
+  additional_domain: '*.wikitide.net'
+  sslname: 'wikitide.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 dcmultiversewikicom:
   url: 'dcmultiversewiki.com'
