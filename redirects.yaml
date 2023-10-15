@@ -97,8 +97,8 @@ greatamericawiki:
   ca: 'LetsEncrypt'
   disable_event: true
 wwwrosettacodeorg:
-  url: 'www.rosettacode.org'
-  redirect: 'rosettacode.org'
+  url: 'rosettacode.org'
+  redirect: 'www.rosettacode.org'
   sslname: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: true
