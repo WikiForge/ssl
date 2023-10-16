@@ -18,6 +18,12 @@ wikitidenet:
   sslname: 'wikitide.net'
   ca: 'LetsEncrypt'
   disable_event: true
+nexttideorg:
+  url: 'nexttide.org'
+  additional_domain: '*.nexttide.org'
+  sslname: 'nexttide.org'
+  ca: 'LetsEncrypt'
+  disable_event: true
 
 dcmultiversewikicom:
   url: 'dcmultiversewiki.com'
