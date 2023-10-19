@@ -123,7 +123,3 @@ wwwlgbtqiawiki:
   url: 'www.lgbtqia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-hscklophocmatnguwiki:
-  url: 'hsck.lophocmatngu.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
