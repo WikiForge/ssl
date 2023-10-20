@@ -127,3 +127,7 @@ hscklophocmatnguwiki:
   url: 'hsck.lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+valorantjpwiki:
+  url: 'valorantjp.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
