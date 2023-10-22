@@ -82,6 +82,7 @@ lophocmatnguwiki:
   disable_event: false
 hscklophocmatnguwiki:
   url: 'hsck.lophocmatngu.wiki'
+  sslname: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 directorwiki:
@@ -131,21 +132,5 @@ valorantjpwiki:
   disable_event: false
 farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-distrowikinet:
-  url: 'distrowiki.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-greatamericawiki:
-  url: 'greatamerica.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-hkrailwiki:
-  url: 'hkrail.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-lophocmatnguwiki:
-  url: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
