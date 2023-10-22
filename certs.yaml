@@ -72,10 +72,6 @@ periloustimescom:
   url: 'perilous-times.com'
   ca: 'LetsEncrypt'
   disable_event: false
-wikipixandbitgay:
-  url: 'wiki.pixandbit.gay'
-  ca: 'LetsEncrypt'
-  disable_event: false
 lophocmatnguwiki:
   url: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
@@ -128,9 +124,5 @@ wwwlgbtqiawiki:
   disable_event: false
 valorantjpwiki:
   url: 'valorantjp.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwlgbtqiawiki:
-  url: 'www.lgbtqia.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
