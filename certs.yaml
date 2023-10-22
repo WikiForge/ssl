@@ -134,3 +134,7 @@ farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+thegreatwaruk:
+  url: 'thegreatwar.uk'
+  ca: 'LetsEncrypt'
+  disable_event: false
