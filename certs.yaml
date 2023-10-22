@@ -138,3 +138,7 @@ thegreatwaruk:
   url: 'thegreatwar.uk'
   ca: 'LetsEncrypt'
   disable_event: false
+mwcosmoscom:
+  url: 'mwcosmos.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
