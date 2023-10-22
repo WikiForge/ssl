@@ -145,3 +145,7 @@ hkrailwiki:
   url: 'hkrail.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+lophocmatnguwiki:
+  url: 'lophocmatngu.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
