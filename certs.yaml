@@ -134,11 +134,3 @@ farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-wikicolleimadcatcom:
-  url: 'wiki.colleimadcat.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-polandballwikicom:
-  url: 'polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
