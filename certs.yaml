@@ -56,6 +56,7 @@ metasagan4org:
   disable_event: false
 alphasagan4org:
   url: 'alpha.sagan4.org'
+  sslname: 'meta.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
 betasagan4org:
@@ -129,9 +130,5 @@ valorantjpwiki:
   disable_event: false
 farthestfrontierwiki:
   url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-metasagan4org:
-  url: 'meta.sagan4.org'
   ca: 'LetsEncrypt'
   disable_event: false
