@@ -127,7 +127,3 @@ valorantjpwiki:
   url: 'valorantjp.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-farthestfrontierwiki:
-  url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
