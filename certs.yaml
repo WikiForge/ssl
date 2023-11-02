@@ -126,3 +126,7 @@ valorantjpwiki:
   url: 'valorantjp.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+datalophocmatnguwiki:
+  url: 'data.lophocmatngu.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
