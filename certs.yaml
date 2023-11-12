@@ -1,27 +1,9 @@
 ---
-# WikiTide
-wikitide:
-  url: 'wikitide.com'
-  additional_domain: '*.wikitide.com'
-  sslname: 'wikitide.com'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wikitideorg:
-  url: 'wikitide.org'
-  additional_domain: '*.wikitide.org'
-  sslname: 'wikitide.org'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wikitidenet:
-  url: 'wikitide.net'
-  additional_domain: '*.wikitide.net'
-  sslname: 'wikitide.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-nexttideorg:
-  url: 'nexttide.org'
-  additional_domain: '*.nexttide.org'
-  sslname: 'nexttide.org'
+# WikiForge
+wikiforge:
+  url: 'wikiforge.work'
+  additional_domain: '*.wikiforge.work'
+  sslname: 'wikiforge.work'
   ca: 'LetsEncrypt'
   disable_event: true
 
@@ -29,104 +11,23 @@ dcmultiversewikicom:
   url: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
-mwcosmoscom:
-  url: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 rippaversewikicom:
   url: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwpolandballwikicom:
-  url: 'www.polandballwiki.com'
-  sslname: 'polandballwiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
 beaconspaceunrestrictedlorefarecom:
   url: 'beaconspace.unrestrictedlorefare.com'
   ca: 'LetsEncrypt'
   disable_event: false
-hkrailwiki:
-  url: 'hkrail.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-metasagan4org:
-  url: 'meta.sagan4.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-alphasagan4org:
-  url: 'alpha.sagan4.org'
-  sslname: 'meta.sagan4.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-betasagan4org:
-  url: 'beta.sagan4.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-masonsagan4org:
-  url: 'mason.sagan4.org'
-  sslname: 'beta.sagan4.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
 periloustimescom:
   url: 'perilous-times.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-lophocmatnguwiki:
-  url: 'lophocmatngu.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-hscklophocmatnguwiki:
-  url: 'hsck.lophocmatngu.wiki'
-  sslname: 'lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
 directorwiki:
   url: 'director.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
-farthestfrontierwiki:
-  url: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwavidwiki:
   url: 'www.avid.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wikicolleimadcatcom:
-  url: 'wiki.colleimadcat.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwgreatamericawiki:
-  url: 'www.greatamerica.wiki'
-  sslname: 'greatamerica.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-rosettacodeorg:
-  url: 'rosettacode.org'
-  ca: 'LetsEncrypt'
-  disable_event: false
-distrowikinet:
-  url: 'distrowiki.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-newcascadianet:
-  url: 'newcascadia.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
-thegreatwaruk:
-  url: 'thegreatwar.uk'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wwwlgbtqiawiki:
-  url: 'www.lgbtqia.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-valorantjpwiki:
-  url: 'valorantjp.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-datalophocmatnguwiki:
-  url: 'data.lophocmatngu.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
