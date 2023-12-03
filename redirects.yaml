@@ -4,11 +4,6 @@ wwwredirect:
   redirect: 'wikiforge.net'
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
-wwwwikitideredirect:
-  url: 'www.wikitide.com'
-  redirect: 'wikitide.com'
-  sslname: 'wikitide.com'
-  ca: 'LetsEncrypt'
 metawikiredirect:
   url: 'meta.wikiforge.net'
   redirect: 'hub.wikiforge.net'
@@ -32,11 +27,6 @@ dcmultiversewiki:
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
-wwwmwcosmoscom:
-  url: 'www.mwcosmos.com'
-  redirect: 'mwcosmos.com'
-  sslname: 'mwcosmos.com'
-  ca: 'LetsEncrypt'
 rippaversewiki:
   url: 'rippaverse.wikiforge.net'
   redirect: 'rippaversewiki.com'
@@ -48,12 +38,6 @@ wwwrippaversewikicom:
   redirect: 'rippaversewiki.com'
   sslname: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
-polandballwikicom:
-  url: 'polandballwiki.com'
-  redirect: 'www.polandballwiki.com'
-  sslname: 'polandballwiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wwwdirectorwiki:
   url: 'www.director.wiki'
   redirect: 'director.wiki'
@@ -63,18 +47,6 @@ wwwdirectorwiki:
 directorwiki:
   url: 'director.wikiforge.net'
   redirect: 'director.wiki'
-  sslname: 'wildcard.wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wwwfarthestfrontierwiki:
-  url: 'www.farthestfrontier.wiki'
-  redirect: 'farthestfrontier.wiki'
-  sslname: 'farthestfrontier.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-farthestfrontierwikitide:
-  url: 'farthestfrontier.wikitide.com'
-  redirect: 'farthestfrontier.wiki'
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
@@ -88,17 +60,5 @@ avidwikiforge:
   url: 'avid.wikiforge.net'
   redirect: 'www.avid.wiki'
   sslname: 'wildcard.wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-greatamericawiki:
-  url: 'greatamerica.wiki'
-  redirect: 'www.greatamerica.wiki'
-  sslname: 'greatamerica.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wwwrosettacodeorg:
-  url: 'www.rosettacode.org'
-  redirect: 'rosettacode.org'
-  sslname: 'rosettacode.org'
   ca: 'LetsEncrypt'
   disable_event: true
