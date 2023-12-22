@@ -7,6 +7,10 @@ wikiforge:
   ca: 'LetsEncrypt'
   disable_event: true
 
+dcmultiversewikicom:
+  url: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
 rippaversewikicom:
   url: 'rippaversewiki.com'
   ca: 'LetsEncrypt'
@@ -25,9 +29,5 @@ directorwiki:
   disable_event: false
 wwwavidwiki:
   url: 'www.avid.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
