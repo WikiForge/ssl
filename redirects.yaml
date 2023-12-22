@@ -9,12 +9,6 @@ metawikiredirect:
   redirect: 'hub.wikiforge.net'
   sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
-wwwdcmultiversewikicom:
-  url: 'www.dcmultiversewiki.com'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 dcwikiredirect:
   url: 'dc.wikiforge.net'
   redirect: 'dcmultiversewiki.com'
