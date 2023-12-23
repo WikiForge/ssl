@@ -65,6 +65,7 @@ avidwikiforge:
 theharrypotterwiki:
   url: 'theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
+  sslname: 'theharrypotter.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
 wwwtheharrypotterwiki:
