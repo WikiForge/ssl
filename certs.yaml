@@ -31,3 +31,7 @@ wwwavidwiki:
   url: 'www.avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+theharrypotterwiki:
+  url: 'theharrypotter.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
