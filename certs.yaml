@@ -43,3 +43,7 @@ harrypotterwiki:
   url: 'harrypotter.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+dcmultiversewikicom:
+  url: 'dcmultiversewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
