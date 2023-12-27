@@ -53,7 +53,7 @@ directorwiki:
 avidwiki:
   url: 'avid.wiki'
   redirect: 'www.avid.wiki'
-  sslname: 'www.avid.wiki'
+  sslname: 'avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
 avidwikiforge:
@@ -78,11 +78,5 @@ wwwharrypotterwiki:
   url: 'www.harrypotter.wiki'
   redirect: 'harrypotter.wiki'
   sslname: 'harrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
-avidwiki:
-  url: 'avid.wiki'
-  redirect: 'www.avid.wiki'
-  sslname: 'avid.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
