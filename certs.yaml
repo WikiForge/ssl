@@ -1,9 +1,9 @@
 ---
 # WikiForge
 wikiforge:
-  url: 'wikiforge.work'
-  additional_domain: '*.wikiforge.work'
-  sslname: 'wikiforge.work'
+  url: 'wikiforge.net'
+  additional_domain: '*.wikiforge.net'
+  sslname: 'wildcard.wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 
