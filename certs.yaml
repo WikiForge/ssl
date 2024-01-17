@@ -43,3 +43,7 @@ churchof0dayscom:
   url: 'churchof0days.com'
   ca: 'LetsEncrypt'
   disable_event: false
+ghostmachinewikicom:
+  url: 'ghostmachinewiki.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
