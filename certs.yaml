@@ -47,3 +47,7 @@ ghostmachinewikicom:
   url: 'ghostmachinewiki.com'
   ca: 'LetsEncrypt'
   disable_event: false
+wikifishonmcnet:
+  url: 'wiki.fishonmc.net'
+  ca: 'LetsEncrypt'
+  disable_event: false
