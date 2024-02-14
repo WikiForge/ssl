@@ -2,12 +2,12 @@
 wwwredirect:
   url: 'www.wikiforge.net'
   redirect: 'wikiforge.net'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
 metawikiredirect:
   url: 'meta.wikiforge.net'
   redirect: 'hub.wikiforge.net'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
 wwwdcmultiversewikicom:
   url: 'www.dcmultiversewiki.com'
@@ -18,19 +18,19 @@ wwwdcmultiversewikicom:
 dcwikiredirect:
   url: 'dc.wikiforge.net'
   redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 dcmultiversewiki:
   url: 'dcmultiverse.wikiforge.net'
   redirect: 'dcmultiversewiki.com'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 rippaversewiki:
   url: 'rippaverse.wikiforge.net'
   redirect: 'rippaversewiki.com'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 wwwrippaversewikicom:
@@ -47,7 +47,7 @@ wwwdirectorwiki:
 directorwiki:
   url: 'director.wikiforge.net'
   redirect: 'director.wiki'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 avidwiki:
@@ -59,7 +59,7 @@ avidwiki:
 avidwikiforge:
   url: 'avid.wikiforge.net'
   redirect: 'www.avid.wiki'
-  sslname: 'wildcard.wikiforge.net'
+  sslname: 'wikiforge.net'
   ca: 'LetsEncrypt'
   disable_event: true
 theharrypotterwiki:
