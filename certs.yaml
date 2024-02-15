@@ -47,11 +47,3 @@ wikifishonmcnet:
   url: 'wiki.fishonmc.net'
   ca: 'LetsEncrypt'
   disable_event: false
-rippaversewikicom:
-  url: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-beaconspaceunrestrictedlorefarecom:
-  url: 'beaconspace.unrestrictedlorefare.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
