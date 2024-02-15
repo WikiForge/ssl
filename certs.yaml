@@ -47,7 +47,3 @@ wikifishonmcnet:
   url: 'wiki.fishonmc.net'
   ca: 'LetsEncrypt'
   disable_event: false
-directorwiki:
-  url: 'director.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
