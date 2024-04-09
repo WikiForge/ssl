@@ -44,3 +44,7 @@ wikifishonmcnet:
   ca: 'LetsEncrypt'
   disable_event: false
 
+wwwoceanmappingwiki:
+  url: 'www.oceanmapping.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
