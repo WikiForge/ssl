@@ -52,3 +52,7 @@ wikifishonmcnet:
   url: 'wiki.fishonmc.net'
   ca: 'LetsEncrypt'
   disable_event: false
+greatamericawiki:
+  url: 'greatamerica.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: false
