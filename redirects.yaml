@@ -80,3 +80,9 @@ wwwharrypotterwiki:
   sslname: 'harrypotter.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+wwwgreatamericawiki:
+  url: 'www.greatamerica.wiki'
+  redirect: 'greatamerica.wiki'
+  sslname: 'greatamerica.wiki'
+  ca: 'LetsEncrypt'
+  disable_event: true
