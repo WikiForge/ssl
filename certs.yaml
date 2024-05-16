@@ -51,3 +51,7 @@ greatamericawiki:
   url: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: false
+wiki1stplayablecom:
+  url: 'wiki.1stplayable.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
