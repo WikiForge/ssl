@@ -86,3 +86,9 @@ wwwgreatamericawiki:
   sslname: 'greatamerica.wiki'
   ca: 'LetsEncrypt'
   disable_event: true
+staticwikiforgenet:
+  url: 'static.wikiforge.net'
+  redirect: 'user-content.static.wf'
+  sslname: 'wikiforge.net'
+  ca: 'LetsEncrypt'
+  disable_event: true
