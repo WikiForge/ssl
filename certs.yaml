@@ -67,3 +67,7 @@ wiki1stplayablecom:
   url: 'wiki.1stplayable.com'
   ca: 'LetsEncrypt'
   disable_event: false
+churchof0dayscom:
+  url: 'churchof0days.com'
+  ca: 'LetsEncrypt'
+  disable_event: false
