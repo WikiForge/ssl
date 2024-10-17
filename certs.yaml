@@ -35,10 +35,6 @@ churchof0dayscom:
   url: 'churchof0days.com'
   ca: 'LetsEncrypt'
   disable_event: false
-ghostmachinewikicom:
-  url: 'ghostmachinewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 wikifishonmcnet:
   url: 'wiki.fishonmc.net'
   ca: 'LetsEncrypt'
@@ -57,17 +53,5 @@ wiki1stplayablecom:
   disable_event: false
 wikiforgexyz:
   url: 'wikiforge.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
-harrypotterwiki:
-  url: 'harrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wiki1stplayablecom:
-  url: 'wiki.1stplayable.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-churchof0dayscom:
-  url: 'churchof0days.com'
   ca: 'LetsEncrypt'
   disable_event: false
