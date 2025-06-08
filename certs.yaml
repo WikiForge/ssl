@@ -7,55 +7,27 @@ wikiforge:
   ca: 'LetsEncrypt'
   disable_event: true
 
-dcmultiversewikicom:
-  url: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-rippaversewikicom:
-  url: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
 beaconspaceunrestrictedlorefarecom:
   url: 'beaconspace.unrestrictedlorefare.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 directorwiki:
   url: 'director.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 harrypotterwiki:
   url: 'harrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-avidwiki:
-  url: 'avid.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
-churchof0dayscom:
-  url: 'churchof0days.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 wikifishonmcnet:
   url: 'wiki.fishonmc.net'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 wwwoceanmappingwiki:
   url: 'www.oceanmapping.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 greatamericawiki:
   url: 'greatamerica.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 wiki1stplayablecom:
   url: 'wiki.1stplayable.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 wikiforgexyz:
   url: 'wikiforge.xyz'
-  ca: 'LetsEncrypt'
-  disable_event: false
-wiki1stplayablecom:
-  url: 'wiki.1stplayable.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert

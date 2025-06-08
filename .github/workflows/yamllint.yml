@@ -14,23 +14,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout'
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
       - name: 'Yamllint'
-        uses: karancode/yamllint-github-action@master
+        uses: karancode/yamllint-github-action@v3.0.0
         with:
           yamllint_config_filepath: '.yamllint.yml'
 
   notify-irc:
     needs: test
     runs-on: ubuntu-latest
-    if: ${{ always() && github.repository_owner == 'WikiForge' && ( github.ref == 'refs/heads/master' || github.event_name == 'pull_request' ) }}
+    if: ${{ always() && github.repository_owner == 'wikiforge' && ( github.ref == 'refs/heads/main' || github.event_name == 'pull_request' ) }}
     steps:
       - name: failed
         uses: technote-space/workflow-conclusion-action@v3
       - uses: rectalogic/notify-irc@v2
         if: env.WORKFLOW_CONCLUSION == 'failure'
         with:
-          channel: "#wikiforge-sre"
+          channel: "#wikiforge-tech-ops"
           server: "irc.libera.chat"
           nickname: wikiforge-github
           message: ${{ github.repository }} - ${{ github.actor }} the build has errored.

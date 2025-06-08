@@ -2,72 +2,19 @@
 wwwredirect:
   url: 'www.wikiforge.net'
   redirect: 'wikiforge.net'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-metawikiredirect:
-  url: 'meta.wikiforge.net'
-  redirect: 'hub.wikiforge.net'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-wwwdcmultiversewikicom:
-  url: 'www.dcmultiversewiki.com'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'dcmultiversewiki.com'
-  ca: 'LetsEncrypt'
-  disable_event: false
-dcwikiredirect:
-  url: 'dc.wikiforge.net'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-dcmultiversewiki:
-  url: 'dcmultiverse.wikiforge.net'
-  redirect: 'dcmultiversewiki.com'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-rippaversewiki:
-  url: 'rippaverse.wikiforge.net'
-  redirect: 'rippaversewiki.com'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-wwwrippaversewikicom:
-  url: 'www.rippaversewiki.com'
-  redirect: 'rippaversewiki.com'
-  sslname: 'rippaversewiki.com'
-  ca: 'LetsEncrypt'
+  sslname: wikiforge-origin-cert
 wwwdirectorwiki:
   url: 'www.director.wiki'
   redirect: 'director.wiki'
-  sslname: 'director.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: false
+  sslname: wikiforge-origin-cert
 directorwiki:
   url: 'director.wikiforge.net'
   redirect: 'director.wiki'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
-avidwiki:
-  url: 'avid.wiki'
-  redirect: 'www.avid.wiki'
-  sslname: 'avid.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
-avidwikiforge:
-  url: 'avid.wikiforge.net'
-  redirect: 'www.avid.wiki'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert
 theharrypotterwiki:
   url: 'theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: 'theharrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert
 wwwtheharrypotterwiki:
   url: 'www.theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
@@ -77,12 +24,8 @@ wwwtheharrypotterwiki:
 wwwharrypotterwiki:
   url: 'www.harrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: 'harrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert
 wwwgreatamericawiki:
   url: 'www.greatamerica.wiki'
   redirect: 'greatamerica.wiki'
-  sslname: 'greatamerica.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert

@@ -3,3 +3,5 @@ extends: default
 
 rules:
   line-length: disable
+  key-duplicates: enable
+  
