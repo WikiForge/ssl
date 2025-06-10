@@ -3,6 +3,7 @@ wwwredirect:
   url: 'www.wikiforge.net'
   redirect: 'wikiforge.net'
   sslname: wikiforge-origin-cert
+
 wwwdirectorwiki:
   url: 'www.director.wiki'
   redirect: 'director.wiki'

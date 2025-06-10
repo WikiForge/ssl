@@ -2,10 +2,7 @@
 # WikiForge
 wikiforge:
   url: 'wikiforge.net'
-  additional_domain: '*.wikiforge.net'
-  sslname: 'wikiforge.net'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert
 
 beaconspaceunrestrictedlorefarecom:
   url: 'beaconspace.unrestrictedlorefare.com'
