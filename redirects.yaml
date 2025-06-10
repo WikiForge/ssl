@@ -18,9 +18,7 @@ theharrypotterwiki:
 wwwtheharrypotterwiki:
   url: 'www.theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: 'theharrypotter.wiki'
-  ca: 'LetsEncrypt'
-  disable_event: true
+  sslname: wikiforge-origin-cert
 wwwharrypotterwiki:
   url: 'www.harrypotter.wiki'
   redirect: 'harrypotter.wiki'
