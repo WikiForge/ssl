@@ -11,6 +11,7 @@ beaconspaceunrestrictedlorefarecom:
   ca: 'Cloudflare'
 directorwiki:
   url: 'director.wiki'
+  sslname: 'wikiforge-origin-cert'
   ca: 'Cloudflare'
 harrypotterwiki:
   url: 'harrypotter.wiki'
