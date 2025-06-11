@@ -2,29 +2,37 @@
 # WikiForge
 wikiforge:
   url: 'wikiforge.net'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 
 beaconspaceunrestrictedlorefarecom:
   url: 'beaconspace.unrestrictedlorefare.com'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 directorwiki:
   url: 'director.wiki'
-  sslname: wikiforge-origin-cert
+  ca: 'Cloudflare'
 harrypotterwiki:
   url: 'harrypotter.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wikifishonmcnet:
   url: 'wiki.fishonmc.net'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wwwoceanmappingwiki:
   url: 'www.oceanmapping.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 greatamericawiki:
   url: 'greatamerica.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wiki1stplayablecom:
   url: 'wiki.1stplayable.com'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wikiforgexyz:
   url: 'wikiforge.xyz'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'

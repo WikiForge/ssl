@@ -2,29 +2,36 @@
 wwwredirect:
   url: 'www.wikiforge.net'
   redirect: 'wikiforge.net'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 
 wwwdirectorwiki:
   url: 'www.director.wiki'
   redirect: 'director.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 directorwiki:
   url: 'director.wikiforge.net'
   redirect: 'director.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 theharrypotterwiki:
   url: 'theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wwwtheharrypotterwiki:
   url: 'www.theharrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wwwharrypotterwiki:
   url: 'www.harrypotter.wiki'
   redirect: 'harrypotter.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 wwwgreatamericawiki:
   url: 'www.greatamerica.wiki'
   redirect: 'greatamerica.wiki'
-  sslname: wikiforge-origin-cert
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
