@@ -40,4 +40,8 @@ wwwgreatamericawiki:
   redirect: 'greatamerica.wiki'
   sslname: 'wikiforge-origin-cert'
   ca: 'Cloudflare'
-
+wwwpolcompballwiki:
+  url: 'www.polcompball.wiki'
+  redirect: 'polcompball.wiki'
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
