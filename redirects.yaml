@@ -4,14 +4,19 @@ wwwredirect:
   redirect: 'wikiforge.net'
   sslname: 'wikiforge-origin-cert'
   ca: 'Cloudflare'
+wwwwikiforgexyz:
+  url: 'www.wikiforge.xyz'
+  redirect: 'wikiforge.xyz'
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
+wwwwikigridcom:
+  url: 'www.wikigrid.com'
+  redirect: 'wikigrid.com'
+  sslname: 'wikiforge-origin-cert'
+  ca: 'Cloudflare'
 
 wwwdirectorwiki:
   url: 'www.director.wiki'
-  redirect: 'director.wiki'
-  sslname: 'wikiforge-origin-cert'
-  ca: 'Cloudflare'
-directorwiki:
-  url: 'director.wikiforge.net'
   redirect: 'director.wiki'
   sslname: 'wikiforge-origin-cert'
   ca: 'Cloudflare'
@@ -35,3 +40,4 @@ wwwgreatamericawiki:
   redirect: 'greatamerica.wiki'
   sslname: 'wikiforge-origin-cert'
   ca: 'Cloudflare'
+
